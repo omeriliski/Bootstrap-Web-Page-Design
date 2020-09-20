@@ -147,7 +147,12 @@
     to {top: 0px; opacity: 1; }
   }
 
-  
+  @media (max-width:992px){
+    .search h3{
+      padding-top: 5px;
+      font-size: 22px;
+    }
+  }
 
 @media (max-width:768px){
     .logo{
@@ -167,10 +172,10 @@
     .search{
       text-align: center;
     }
-    .search h3{
-      font-size: 22px;
+    
+    .for-menu{
+      height: 140px;
     }
-
 }
 @media (max-width:576px){
     /* .logo h3{
