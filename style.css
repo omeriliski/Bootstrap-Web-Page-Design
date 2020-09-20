@@ -164,6 +164,12 @@
     .carousel-inner img {
       height: 500px;
     }
+    .search{
+      text-align: center;
+    }
+    .search h3{
+      font-size: 22px;
+    }
 
 }
 @media (max-width:576px){
